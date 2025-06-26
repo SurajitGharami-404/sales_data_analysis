@@ -2,7 +2,7 @@
 
 This project provides a comprehensive and interactive Excel dashboard to help visualize and analyze sales data. It includes charts, KPIs, and filtering capabilities to support decision-making and performance tracking.
 
-![Sales Dashboard Example](https://via.placeholder.com/1000x600.png?text=Sales+Dashboard+Preview)
+![Sales Dashboard Example](https://github.com/SurajitGharami-404/sales_data_analysis/blob/main/dashboard-img.png)
 
 ## 🧰 Features
 
